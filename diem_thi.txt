@@ -1,0 +1,9 @@
+DANH SÁCH ĐIỂM THI
+------------------------------
+xuan: 10.0
+lam: 9.0
+ngan: 9.5
+thang: 8.0
+------------------------------
+Điểm trung bình: 9.12
+Sinh viên điểm cao nhất: xuan (10.0)
